@@ -1,0 +1,5 @@
+# ignore python venv
+.venv
+
+# ignore default output file
+output.xlsx
